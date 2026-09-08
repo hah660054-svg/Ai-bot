@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+flask
+google-genai
+groq
+edge-tts
+pytz
